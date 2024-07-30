@@ -1,0 +1,14 @@
+F:\ProyectoPOO\SOLID\SOLID\bin\Debug\net8.0\SOLID.exe
+F:\ProyectoPOO\SOLID\SOLID\bin\Debug\net8.0\SOLID.deps.json
+F:\ProyectoPOO\SOLID\SOLID\bin\Debug\net8.0\SOLID.runtimeconfig.json
+F:\ProyectoPOO\SOLID\SOLID\bin\Debug\net8.0\SOLID.dll
+F:\ProyectoPOO\SOLID\SOLID\bin\Debug\net8.0\SOLID.pdb
+F:\ProyectoPOO\SOLID\SOLID\obj\Debug\net8.0\SOLID.GeneratedMSBuildEditorConfig.editorconfig
+F:\ProyectoPOO\SOLID\SOLID\obj\Debug\net8.0\SOLID.AssemblyInfoInputs.cache
+F:\ProyectoPOO\SOLID\SOLID\obj\Debug\net8.0\SOLID.AssemblyInfo.cs
+F:\ProyectoPOO\SOLID\SOLID\obj\Debug\net8.0\SOLID.csproj.CoreCompileInputs.cache
+F:\ProyectoPOO\SOLID\SOLID\obj\Debug\net8.0\SOLID.dll
+F:\ProyectoPOO\SOLID\SOLID\obj\Debug\net8.0\refint\SOLID.dll
+F:\ProyectoPOO\SOLID\SOLID\obj\Debug\net8.0\SOLID.pdb
+F:\ProyectoPOO\SOLID\SOLID\obj\Debug\net8.0\SOLID.genruntimeconfig.cache
+F:\ProyectoPOO\SOLID\SOLID\obj\Debug\net8.0\ref\SOLID.dll
